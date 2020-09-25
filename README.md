@@ -43,3 +43,23 @@ Kosmogonik            # Nazwa Modelu
 +---Kosmogonik_R_Arm  # w/w
 +---...
 ```
+# Struktura Folderów
+#### Folder z Projektami
+
+```
+H:\Kosmogonik_VR                    
+ +---Blender                          # Folder z projektami w Blender
+ |   +---Kosmogonik_01                # Folder Projektu
+ |   +---+---Kosmogonik_Model_01.blend    
+ +---Houdini                          # Folder z projektami w Houdini
+ |   +---Kosmogonik_01                # Folder Projektu
+ |   +---+---Kosmogonik_Model_01.hip      
+ +---Assets
+ |   +---Postacie                     # Folder z Assetami
+ |   +---+---Kosmogonik_01            # Folder Assetu
+ |   +---+---+---Kosmogonik_01.obj    # Plik Assetu
+ |   +---+---+---Kosmogonik_01        # Folder Tekstury
+ |   +---Rekwizyty
+ |   +---Scenografia
+ +---Docs
+ ```
