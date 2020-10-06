@@ -1,13 +1,13 @@
+### Mieszkańcy
+Palatynidzi
+Palatynida
+Palatynidów
+
 # <b>Nazewnictwo<b>
 ### Pliki Projektowe
 `Nazwa obiektu` + `Rodzaj` + `nr` + `rozszerzenie`<br />
 `Kosmogonik` + `_Model` + `_01` + `.blend` <br />
 `Kosmogonik_Model_01.blend` <br />
- 
- 
- Palatynidzi
- Palatynida
- Palatynidów
 
 ### Pliki Modelu
 `Nazwa obiektu` + `Nr` + `Rozszerzenie` <br />
@@ -32,6 +32,24 @@ Suffix | Texture
 `_EM`  | Emission
 `_AO`  | Ambient Occlusion
 `_M`   | Mask
+
+
+### Development
+Kosmogonik_VR\Development\Palatynidzi_01
+```
+Palatynidzi_01               # Folder
+ |  Palatynidzi_01.hiplc
+ |  Palatynidzi_01.zpr
+ |  +--- geo                                # geometria .obj albo .fbx itp
+ |  +--- export                             # tylko czysty export
+ |  +---+--- Palatynidzi_A_Base_01.obj      # mockap postaciw w T-Pose
+ |  +---+--- Palatynidzi_A_Low_01.obj       # optymalizacja Midle
+ |  +---+--- Palatynidzi_A_Midle_01.obj     # export z Zbrush
+ |  +---+--- Palatynidzi_A_High_01.obj      # export z Zbrush
+ |  +--- tex
+ |  +---+--- Palatynidzi_A_01_N.png         
+ |  +---+--- Palatynidzi_A_01_AO.png
+```
 
 ### Asset
 ```
