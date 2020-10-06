@@ -3,6 +3,11 @@
 `Nazwa obiektu` + `Rodzaj` + `nr` + `rozszerzenie`<br />
 `Kosmogonik` + `_Model` + `_01` + `.blend` <br />
 `Kosmogonik_Model_01.blend` <br />
+ 
+ 
+ Palatynidzi
+ Palatynida
+ Palatynidów
 
 ### Pliki Modelu
 `Nazwa obiektu` + `Nr` + `Rozszerzenie` <br />
