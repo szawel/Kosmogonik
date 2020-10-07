@@ -1,16 +1,15 @@
 # **Ksomogonik**
 ## Spis treści
-- [Nazwy Postaci Polski](#heading)
-  * [Development Postacie](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
 
-
-### Nazwy Postaci Polski
+# Nazwy
 `Kosmogonik` – Narrator <br />
 `Architor` – władca planety <br />
 `Pyron` – główny Protagonista <br />
 `Palatynidzi | Palatynida | Palatynidów` – mieszkańcy planety <br />
 
+<a name="desc"></a>
 # <b>Nazewnictwo<b>
 ### Pliki Projektowe
 `Nazwa obiektu` + `Rodzaj` + `nr` + `rozszerzenie`<br />
