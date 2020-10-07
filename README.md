@@ -1,26 +1,34 @@
 # **Ksomogonik**
 ## Spis treści
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
 
+- [Nazwy Postaci](#nazwy)
+- [Nazewnictwo](#nazewnictwo)
+  * [Pliki Projektowe](#plikiprojektowe)
+  * [Pliki Modeli](#plikimodelu)
+  * [Tekstury](#tekstury)
+
+<a name="nazwy"></a>
 # Nazwy
 `Kosmogonik` – Narrator <br />
 `Architor` – władca planety <br />
 `Pyron` – główny Protagonista <br />
 `Palatynidzi | Palatynida | Palatynidów` – mieszkańcy planety <br />
 
-<a name="desc"></a>
+<a name="nazewnictwo"></a>
 # <b>Nazewnictwo<b>
+<a name="plikiprojektowe"></a>
 ### Pliki Projektowe
 `Nazwa obiektu` + `Rodzaj` + `nr` + `rozszerzenie`<br />
 `Kosmogonik` + `_Model` + `_01` + `.blend` <br />
 `Kosmogonik_Model_01.blend` <br />
 
+<a name="plikimodelu"></a>
 ### Pliki Modelu
 `Nazwa obiektu` + `Nr` + `Rozszerzenie` <br />
 `Kosmogonik` + `_01` + `.obj` <br />
 `Kosmogonik_01.obj` <br />
 
+<a name="tekstury"></a>
 ### Nazewnictwo Tekstury
 `Nazwa` + `Nr wersji` + `Suffix` + `Rozszerzenie` <br />
 `Kosmogonik` + `_01` + `_AL` + `.png`<br />
