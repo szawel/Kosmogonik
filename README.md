@@ -1,7 +1,15 @@
-### Mieszkańcy
-Palatynidzi
-Palatynida
-Palatynidów
+# **Ksomogonik**
+## Spis treści
+- [Nazwy Postaci Polski](#heading)
+  * [Development Postacie](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+
+
+### Nazwy Postaci Polski
+`Kosmogonik` – Narrator <br />
+`Architor` – władca planety <br />
+`Pyron` – główny Protagonista <br />
+`Palatynidzi | Palatynida | Palatynidów` – mieszkańcy planety <br />
 
 # <b>Nazewnictwo<b>
 ### Pliki Projektowe
@@ -34,21 +42,23 @@ Suffix | Texture
 `_M`   | Mask
 
 
-### Development
-Kosmogonik_VR\Development\Palatynidzi_01
+### Development Postacie
+
+`Kosmogonik_VR\Development\Palatynidzi_01`
+<br />
 ```
 Palatynidzi_01               # Folder
  |  Palatynidzi_01.hiplc
  |  Palatynidzi_01.zpr
- |  +--- geo                                # geometria .obj albo .fbx itp
- |  +--- export                             # tylko czysty export
- |  +---+--- Palatynidzi_A_Base_01.obj      # mockap postaciw w T-Pose
- |  +---+--- Palatynidzi_A_Low_01.obj       # optymalizacja Midle
- |  +---+--- Palatynidzi_A_Midle_01.obj     # export z Zbrush
- |  +---+--- Palatynidzi_A_High_01.obj      # export z Zbrush
+ |  +--- geo                               # geometria .obj albo .fbx itp
+ |  +--- export                            # tylko czysty export
+ |  +---+--- Palatynida_A_Base_01.obj      # mockap postaciw w T-Pose
+ |  +---+--- Palatynida_A_Low_01.obj       # optymalizacja Midle
+ |  +---+--- Palatynida_A_Midle_01.obj     # export z Zbrush
+ |  +---+--- Palatynida_A_High_01.obj      # export z Zbrush
  |  +--- tex
- |  +---+--- Palatynidzi_A_01_N.png         
- |  +---+--- Palatynidzi_A_01_AO.png
+ |  +---+--- Palatynida_A_01_N.png         
+ |  +---+--- Palatynida_A_01_AO.png
 ```
 
 ### Asset
