@@ -49,7 +49,7 @@ Suffix | Texture
 `_M`   | Mask
 
 
-### Development Postacie
+### Postacie Assets
 
 `Kosmogonik_VR\Development\Palatynidzi_01`
 <br />
@@ -64,8 +64,9 @@ Palatynidzi_01               # Folder
  |  +---+--- Palatynida_A_Midle_01.obj     # export z Zbrush
  |  +---+--- Palatynida_A_High_01.obj      # export z Zbrush
  |  +--- tex
- |  +---+--- Palatynida_A_01_N.png         
- |  +---+--- Palatynida_A_01_AO.png
+ |  +---+--- Palatynida_A_N_01.png         
+ |  +---+--- Palatynida_A_AO_01.png
+ |  +---+--- Palatynida_...
 ```
 
 ### Asset
