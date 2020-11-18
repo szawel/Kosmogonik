@@ -54,11 +54,8 @@ Suffix | Texture
 `Kosmogonik_VR\Development\Palatynidzi_01`
 <br />
 ```
-Palatynidzi_01               # Folder
- |  Palatynidzi_01.hiplc
- |  Palatynidzi_01.zpr
- |  +--- geo                               # geometria .obj albo .fbx itp
- |  +--- export                            # tylko czysty export
+Palatynida
+ |  +--- geo                               # tylko czysty export
  |  +---+--- Palatynida_A_Base_01.obj      # mockap postaciw w T-Pose
  |  +---+--- Palatynida_A_Low_01.obj       # optymalizacja Midle
  |  +---+--- Palatynida_A_Midle_01.obj     # export z Zbrush
@@ -67,6 +64,9 @@ Palatynidzi_01               # Folder
  |  +---+--- Palatynida_A_N_01.png         
  |  +---+--- Palatynida_A_AO_01.png
  |  +---+--- Palatynida_...
+ |  +--- fbx
+ |  +---+--- Palatynida_A_01.fbx         
+ 
 ```
 
 ### Asset
