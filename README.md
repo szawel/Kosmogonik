@@ -51,7 +51,7 @@ Suffix | Texture
 
 ### Postacie Assets
 
-`Kosmogonik_VR\Development\Palatynidzi_01`
+`Kosmogonik_VR\Assets\Postacie\Palatynida`
 <br />
 ```
 Palatynida
