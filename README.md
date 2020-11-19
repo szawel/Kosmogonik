@@ -116,3 +116,10 @@ ffmpeg -i img%04d.png -c:v libx264 -vf fps=25 -pix_fmt yuv420p out.mp4
 ```
 ffmpeg.exe -i 01.mp4 -i 02.mp4 -i 03.mp4 -filter_complex "[1:v][0:v]scale2ref=oh*mdar:ih[1v][0v];[2:v][0v]scale2ref=oh*mdar:ih[2v][0v];[0v][1v][2v]hstack=3,scale='2*trunc(iw/2)':'2*trunc(ih/2)'" out.mp4
 ```
+
+## Houdini env
+```
+UNITY = "D:/Kosmogonik_Storyboard_VR/Kosmogonik Storyboard VR/Assets/Kosmogonic_Assets"
+ASSETS = "D:/Kosmogonik_VR/Assets"
+HOUDINI_PATH = "$UNITY;$ASSETS;&"
+```
