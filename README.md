@@ -1,5 +1,5 @@
-# **Ksomogonik**
-## Spis treści
+# **Ksomogonik / Cosmogonic**
+## <b>Spis treści</b>
 
 - [Nazwy Postaci](#nazwy)
 - [Nazewnictwo](#nazewnictwo)
@@ -8,15 +8,16 @@
   * [Tekstury](#tekstury)
 
 <a name="nazwy"></a>
-# Nazwy
+## <b>Nazwy Postaci</b>
 `Kosmogonik` – Narrator <br />
 `Architor` – władca planety <br />
 `Pyron` – główny Protagonista <br />
 `Palatynidzi | Palatynida | Palatynidów` – mieszkańcy planety <br />
 
 <a name="nazewnictwo"></a>
-# <b>Nazewnictwo<b>
+## <b>Nazewnictwo<b>
 <a name="plikiprojektowe"></a>
+
 ### Pliki Projektowe
 `Nazwa obiektu` + `Rodzaj` + `nr` + `rozszerzenie`<br />
 `Kosmogonik` + `_Model` + `_01` + `.blend` <br />
@@ -24,9 +25,24 @@
 
 <a name="plikimodelu"></a>
 ### Pliki Modelu
-`Nazwa obiektu` + `Nr` + `Rozszerzenie` <br />
-`Kosmogonik` + `_01` + `.obj` <br />
-`Kosmogonik_01.obj` <br />
+Nazwy mają numery jesli jest wiecej niż jeden z tej samej kategotii np. ```Naczynie_01, Naczynie_02, Naczynie_02 ... itd. ```<br />
+Ten numer nie jest tożsamy z numerem wersji który zapisujemy tuż przed rozszerzeniem <br />
+W nazwach nie uzywamy `spacji` tylko `_` <br />
+Nazwa zaczyna się z dużej litery kończy raszta małą. <br />
+`Low` - oznacza geometrie `LowRes` <br />
+`High` - oznacza geometrie `HighRes` <br />
+
+`Nazwa obiektu` + `Rodzaj` + `Nr` + `Rozszerzenie` <br />
+`Kosmogonik` + `Low` + `01` + `.obj` <br />
+`Kosmogonik_Low_01.obj` <br />
+
+<i>przykłady:</i>
+```
+Naczynie_02_High_01.obj
+Naczynie_02_Low_01.obj
+Naczynie_02_01.obj
+...
+```
 
 <a name="tekstury"></a>
 ### Nazewnictwo Tekstury
@@ -66,7 +82,7 @@ Palatynida
  |  +---+--- Palatynida_...
  |  +--- fbx
  |  +---+--- Palatynida_A_01.fbx         
- 
+
 ```
 
 ### Asset
