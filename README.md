@@ -15,7 +15,7 @@
 `Palatynidzi | Palatynida | Palatynidów` – mieszkańcy planety <br />
 
 <a name="nazewnictwo"></a>
-## <b>Nazewnictwo<b>
+## <b>Nazewnictwo</b>
 <a name="plikiprojektowe"></a>
 
 ### Pliki Projektowe
@@ -25,12 +25,14 @@
 
 <a name="plikimodelu"></a>
 ### Pliki Modelu
-Nazwy mają numery jesli jest wiecej niż jeden z tej samej kategotii np. ```Naczynie_01, Naczynie_02, Naczynie_02 ... itd. ```<br />
-Ten numer nie jest tożsamy z numerem wersji który zapisujemy tuż przed rozszerzeniem <br />
-W nazwach nie uzywamy `spacji` tylko `_` <br />
-Nazwa zaczyna się z dużej litery kończy raszta małą. <br />
-`Low` - oznacza geometrie `LowRes` <br />
-`High` - oznacza geometrie `HighRes` <br />
+
+* Nazwy mają numery jesli jest wiecej niż jeden z tej samej kategotii np. <br/>
+`Naczynie_01,` `Naczynie_02,` `Naczynie_02 ` `itd...` <br/>
+* Ten numer nie jest tożsamy z numerem wersji który zapisujemy tuż przed rozszerzeniem ! <br />
+* W nazwach nie uzywamy `spacji` tylko `_` <br />
+* Nazwa zaczyna się z dużej litery raszta małą, tak samo rodzaj ! <br />
+* `Low` - oznacza geometrie `LowRes` <br />
+* `High` - oznacza geometrie `HighRes` <br />
 
 
 `Nazwa obiektu` + `Rodzaj` + `Nr` + `Rozszerzenie` <br />
