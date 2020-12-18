@@ -1,3 +1,4 @@
+![Cosmo](https://github.com/szawel/Kosmogonik/img/Kosmo_Kolo.png)
 # **Ksomogonik / Cosmogonic**
 ## <b>Spis treści</b>
 
