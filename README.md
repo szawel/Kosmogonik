@@ -32,6 +32,7 @@ Nazwa zaczyna się z dużej litery kończy raszta małą. <br />
 `Low` - oznacza geometrie `LowRes` <br />
 `High` - oznacza geometrie `HighRes` <br />
 
+
 `Nazwa obiektu` + `Rodzaj` + `Nr` + `Rozszerzenie` <br />
 `Kosmogonik` + `Low` + `01` + `.obj` <br />
 `Kosmogonik_Low_01.obj` <br />
