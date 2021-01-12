@@ -2,12 +2,6 @@
 # **Ksomogonik / Cosmogonic**
 ## <b>Spis treści</b>
 
-- [Nazwy Postaci](#nazwy)
-- [Nazewnictwo](#nazewnictwo)
-  * [Pliki Projektowe](#plikiprojektowe)
-  * [Pliki Modeli](#plikimodelu)
-  * [Tekstury](#tekstury)
-
 <a name="nazwy"></a>
 ## <b>Nazwy Postaci</b>
 `Kosmogonik` – Narrator <br />
@@ -68,43 +62,25 @@ Suffix | Texture
 `_AO`  | Ambient Occlusion
 `_M`   | Mask
 
-
-### Postacie Assets
-
-`Kosmogonik_VR\Assets\Postacie\Palatynida`
-<br />
-```
-Palatynida
- |  +--- geo                               # tylko czysty export
- |  +---+--- Palatynida_A_Base_01.obj      # mockap postaciw w T-Pose
- |  +---+--- Palatynida_A_Low_01.obj       # optymalizacja Midle
- |  +---+--- Palatynida_A_Midle_01.obj     # export z Zbrush
- |  +---+--- Palatynida_A_High_01.obj      # export z Zbrush
- |  +--- tex
- |  +---+--- Palatynida_A_N_01.png         
- |  +---+--- Palatynida_A_AO_01.png
- |  +---+--- Palatynida_...
- |  +--- fbx
- |  +---+--- Palatynida_A_01.fbx         
-
-```
-
 ### Asset
-```
+Nazewnictwo <br />
+`Nazwa Assetu` + `Rodzaj` + `nr` + `rozszerzenie`<br />
+Folder <br />
+`Kosmogonik_VR\Assets\Postacie\Palatynida_B`
+<br />
+```c
 Palatynida_B        # Nazwa Assetu/Folderu
-
- +---geo
- |   +---Palatynida_B_Low_01.fbx      # Final geometry fbx
- +---Geo_Bake                         # Bake geometry Directory
- |   +---Palatynida_B_Bake_High.fbx   # HighRes bake geometry
- |   +---Palatynida_B_Bake_Low.fbx    # LowRes bake geometry
- +---tex
- |   +---Palatynida_B_Low_01_AL.png   # Texture Albedo
- |   +---Palatynida_B_Low_01_MT.png   # Metallic
- |   +---Palatynida_B_Low_01_N.png    # Normal
-
-Palatynida_B_Bake_SetUp_01.hiplc      # Houdini File with SetUp
-Palatynida_B_Bake_Tex_01.spp          # Substance Painter SetUp
+ +--- geo
+ |   +--- Palatynida_B_Low_01.fbx         # fbx Final geometry
+ +--- Geo_Bake                            
+ |   +--- Palatynida_B_Bake_High.fbx      # fbx HighRes bake
+ |   +--- Palatynida_B_Bake_Low.fbx       # fbx LowRes bake
+ +--- tex                                 
+ |   +--- Palatynida_B_Low_01_AL.png      # Texture Albedo
+ |   +--- Palatynida_B_Low_01_MT.png      # Texture Metallic
+ |   +--- Palatynida_B_Low_01_N.png       # Texture Normal
+ +--- Palatynida_B_Bake_SetUp_01.hiplc    # Houdini File with SetUp
+ +--- Palatynida_B_Bake_Tex_01.spp        # Substance Painter SetUp
 ```
 
 ### Nazewnictwo Grupy
