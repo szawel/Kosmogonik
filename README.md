@@ -1,4 +1,4 @@
-![Cosmo](https://github.com/szawel/Kosmogonik/blob/master/img/Kosmo.png)
+![Cosmo](https://github.com/szawel/Kosmogonik/blob/master/img/Kosmo.gif)
 # **Ksomogonik / Cosmogonic**
 ## <b>Spis treści</b>
 
@@ -91,10 +91,20 @@ Palatynida
 
 ### Asset
 ```
-Nazwa               # Folder
- |  +---Model       # geometria .obj albo .fbx
- |  +---Shader      # *.meta tylko do Unity
- |  +---+---Texture # Folder z setem tekstur
+Palatynida_B        # Nazwa Assetu/Folderu
+
+ +---geo
+ |   +---Palatynida_B_Low_01.fbx      # Final geometry fbx
+ +---Geo_Bake                         # Bake geometry Directory
+ |   +---Palatynida_B_Bake_High.fbx   # HighRes bake geometry
+ |   +---Palatynida_B_Bake_Low.fbx    # LowRes bake geometry
+ +---tex
+ |   +---Palatynida_B_Low_01_AL.png   # Texture Albedo
+ |   +---Palatynida_B_Low_01_MT.png   # Metallic
+ |   +---Palatynida_B_Low_01_N.png    # Normal
+
+Palatynida_B_Bake_SetUp_01.hiplc      # Houdini File with SetUp
+Palatynida_B_Bake_Tex_01.spp          # Substance Painter SetUp
 ```
 
 ### Nazewnictwo Grupy
